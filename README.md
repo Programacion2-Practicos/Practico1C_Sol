@@ -16,9 +16,9 @@
 luego en Eclipse, crear un proyecto con el mismo nombre de la carpeta que se dejó en workspace.**
 
 Ultima actualización 30 de set 2022
-enlazado en replit en: [https://replit.com/@utu_liceo/EjemplosClase#README.md](https://replit.com/@utu_liceo/PracticoMetodos#README.md)
+enlazado en replit en: 
+https://replit.com/@utu_liceo/PracticoMetodos-1#README.md
 
-en github-> https://github.com/Programacion1-Practicos2022/PracticoMetodos
-
+en github-> https://github.com/Programacion2-Practicos2022/PracticoMetodos.git
 
 Archivos copiados de: https://www.discoduroderoer.es/ejercicios-propuestos-y-resueltos-metodos-y-funciones-de-java/
