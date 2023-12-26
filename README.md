@@ -16,8 +16,6 @@
 luego en Eclipse, crear un proyecto con el mismo nombre de la carpeta que se dejó en workspace.**
 
 Ultima actualización 30 de set 2022
-enlazado en replit en: 
-https://replit.com/@utu_liceo/PracticoMetodos-1#README.md
 
 en github-> https://github.com/Programacion2-Practicos2022/PracticoMetodos.git
 
