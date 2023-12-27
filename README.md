@@ -7,7 +7,7 @@
 3) Este proyecto quedará como plantilla para comenzar proyectos
 
 4) Si cambia la estructura del Proyecto, hay que modificar el archivo **run.sh** para que funcione en replit
-5) Si quiere ejecutar un programa, cambie en el archivo run.sh el nombre de la carpeta en los dos lugares que corresponde, por ejemplo: ver la siguiente imagen:
+5) Si quiere ejecutar un programa, cambie en el archivo **run.sh** el nombre de la carpeta en los dos lugares que corresponde, por ejemplo: ver la siguiente imagen:
   
   ![Imagen del archivo run.hs](./imagen_run.png) 
   
