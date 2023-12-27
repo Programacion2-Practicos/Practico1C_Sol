@@ -17,7 +17,7 @@
 8) **Para usarlo en la PC, descargar el zip, descomprimirlo y copiar la carpeta en el workspace de eclipse,  
 luego en Eclipse, crear un proyecto con el mismo nombre de la carpeta que se dejó en workspace.**
 
-Ultima actualización 30 de set 2022
+Ultima actualización diciembre del 2023
 
 en github->(https://github.com/Programacion2-Practicos/Repaso-de-metodos)
 
