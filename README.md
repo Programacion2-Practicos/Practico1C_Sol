@@ -22,3 +22,6 @@ Ultima actualización diciembre del 2023
 en github->(https://github.com/Programacion2-Practicos/Repaso-de-metodos)
 
 Archivos copiados de: https://www.discoduroderoer.es/ejercicios-propuestos-y-resueltos-metodos-y-funciones-de-java/
+
+------------------------------------------------------------------------------------------------------------------------------
+Letra para realizar los ejercicios 2 y ejercicio 3
