@@ -9,6 +9,7 @@
 4) Si cambia la estructura del Proyecto, hay que modificar el archivo **run.sh** para que funcione en replit
 5) Si quiere ejecutar un programa, cambie en el archivo run.sh el nombre de la carpeta en los dos lugares que corresponde, por ejemplo: ver **imagen_run.png**
   
+  ![Imagen del archivo run.hs](./imagen_run.png) 
 6) Para mantenerlo sincronizado con github, clonar el repositorio y abrir VSCode, clonar.
    
    
