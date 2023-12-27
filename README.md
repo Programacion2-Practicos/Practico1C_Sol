@@ -19,6 +19,6 @@ luego en Eclipse, crear un proyecto con el mismo nombre de la carpeta que se dej
 
 Ultima actualización 30 de set 2022
 
-en github-> [https://github.com/Programacion2-Practicos2022/PracticoMetodos.git](https://github.com/Programacion2-Practicos/Repaso-de-metodos)
+en github->(https://github.com/Programacion2-Practicos/Repaso-de-metodos)
 
 Archivos copiados de: https://www.discoduroderoer.es/ejercicios-propuestos-y-resueltos-metodos-y-funciones-de-java/
