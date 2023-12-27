@@ -46,17 +46,15 @@ public class Principal {
 	        return error; 
 	 }
 
-	public static boolean verificar(String usuario, String contrasenia) {
-	        String usuarioValido = "PepeGrillo";
-	        String contraseniaValida = "MiPass";
-	       
-	      //  if(usuarioValido.equals(usuario) && contraseniaValida.equals(contrasenia)) 
-	        if (usuarioValido==usuario && contraseniaValida==contrasenia)
-	                  return true; 
-	       
-	        
-	        return false;
-	}
+
+
+   public static boolean verificar(String usuario, String contrasenia) {
+        String usuarioValido = "PepeGrillo";
+        String contraseniaValida = "MiPass";
+
+        return usuarioValido.equals(usuario) && contraseniaValida.equals(contrasenia);
+    }
+  }
 
 		
-}
+
